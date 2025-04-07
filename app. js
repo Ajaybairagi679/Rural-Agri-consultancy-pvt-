@@ -1,0 +1,16 @@
+// scripts/app.js
+
+// AI Tools Button Functionality const aiVoiceBtn = document.getElementById("aiVoiceBtn"); const aiTextBtn = document.getElementById("aiTextBtn");
+
+aiVoiceBtn.addEventListener("click", () => { alert("AI Voice Mode Coming Soon - Premium Support in progress!"); });
+
+aiTextBtn.addEventListener("click", () => { alert("AI Text Mode Activated - How can I assist you today?"); });
+
+// Language Translation (placeholder) function translate(lang) { alert(Language changed to ${lang} (Demo)); }
+
+// Tie-up & Wallet Features (demo only) function openTieUpForm() { alert("Tie-up Request Form Coming Soon"); }
+
+function openWalletAccess() { alert("Wallet Access Secure Panel (Admin Only)"); }
+
+// Smart Welcome Banner window.onload = () => { const hour = new Date().getHours(); const greeting = document.getElementById("greeting"); if (hour < 12) { greeting.innerText = "Good Morning, Farmer!"; } else if (hour < 18) { greeting.innerText = "Good Afternoon, Farmer!"; } else { greeting.innerText = "Good Evening, Farmer!"; } };
+
