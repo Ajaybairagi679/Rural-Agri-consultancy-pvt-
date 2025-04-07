@@ -1,0 +1,16 @@
+<main>
+  <section id="services">
+    <h2>Our Services</h2>
+    ...
+  </section>
+
+  <section id="language">
+    <h2>Language Support</h2>
+    ...
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    ...
+  </section>
+</main>
