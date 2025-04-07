@@ -1,0 +1,40 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rural Agri-Consultancy Pvt.</title>
+  <link rel="stylesheet" href="styles/main.css" />
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="Rural Agri-Consultancy Logo" class="logo" />
+    <h1>Rural Agri-Consultancy Pvt.</h1>
+    <p class="slogan">Empowering Farmers & Businesses to Grow Together</p>
+  </header>  <main>
+    <section class="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Organic Farming Consultancy</li>
+        <li>Farm Planning & Management</li>
+        <li>Bio-input Supply</li>
+        <li>Crop Advisory</li>
+        <li>Data Analysis & Feedback</li>
+        <li>AI Tools – Voice & Text Support</li>
+        <li>Business Tie-ups & Collaborations</li>
+        <li>Instant Payment & Wallet Integration</li>
+      </ul>
+    </section><section class="language-support">
+  <h2>Language Support</h2>
+  <p>राजस्थानी, हिंदी और English – सभी के लिए सरल और सुलभ।</p>
+</section>
+
+<section class="contact">
+  <h2>Contact Us</h2>
+  <p>Email: <a href="mailto:ajaybairagi679@gmail.com">ajaybairagi679@gmail.com</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/ajay-bairagi-85ba52166" target="_blank">Ajay Bairagi</a></p>
+</section>
+
+  </main>  <footer>
+    <p>&copy; 2025 Rural Agri-Consultancy Pvt. All rights reserved.</p>
+  </footer>  <script src="scripts/app.js"></script></body>
+</html>
